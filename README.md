@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakir
 - 👀 I’m interested in Software Technologies. I am keen on working and learning.
-- - 🌱 I’m currently working on React/React Native/Java Technologies.
+- 🌱 I’m currently working on React/React Native/Java Technologies.
 - 💞️ I’m looking to collaborate on everything about Software Technologies
 - 📫 How to reach me sakirdemircelik@gmail.com
 
